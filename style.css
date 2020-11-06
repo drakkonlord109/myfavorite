@@ -1,0 +1,15 @@
+  body{
+    text-align: center;
+    background: rgb(255,10,0);
+background: linear-gradient(90deg, rgba(255,10,0,1) 0%, rgba(50,65,204,1) 50%, rgba(0,212,255,1) 100%);
+}
+
+h1{
+    text-shadow: 2px 2px #F8BBDO;
+    font-size: 20px;
+}
+
+img{
+    border-radius: 50%;
+    width: 100px;
+}
